@@ -6,6 +6,10 @@
 ## Description 
 
 easy to use application for creating, saving, anddeleting notes.
+## Screenshots and link to Heroku deployed application
+
+![Screen Shot 2020-08-17 at 10 26 22 PM](https://user-images.githubusercontent.com/64985702/90465759-0e918200-e0de-11ea-8c50-f9b0d2613e5a.png)
+
 
 ## Table of Contents 
 

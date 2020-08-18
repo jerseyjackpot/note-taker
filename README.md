@@ -42,7 +42,7 @@ MIT
 N/A
 
 ### Tests 
-To run, please install locally and type the following the command:
+To run, please install locally and type the following command:
 
 node server.js
 
